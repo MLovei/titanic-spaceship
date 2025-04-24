@@ -1,0 +1,30 @@
+# Python virtual environments
+venv/
+.venv/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+
+# CatBoost outputs
+catboost_info/
+
+# macOS system files
+.DS_Store
+
+# Compiled Python files
+*.pyc
+
+# Log files
+*.log
+
+# Temporary and swap files
+*.tmp
+*.swp
+*~
