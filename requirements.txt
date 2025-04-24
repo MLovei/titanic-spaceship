@@ -1,0 +1,15 @@
+catboost==1.2.7
+ipython==8.31.0
+kaggle==1.6.17
+lightgbm==4.5.0
+matplotlib==3.10.0
+matplotlib-inline==0.1.7
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.6.1
+scipy==1.15.1
+seaborn==0.13.2
+shap==0.46.0
+statsmodels==0.14.4
+tqdm==4.67.1
+xgboost==3.0.0rc1
